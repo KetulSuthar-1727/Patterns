@@ -96,13 +96,7 @@
             
 # fucntion6()
 
-'''
-      A
-    A B A
-  A B C B A
-A B C D C B A
 
-'''
 
 # def fucntion7():
 #     user = int(input("Enter the number : "))
@@ -153,14 +147,7 @@ A B C D C B A
 #         inin -= 2
 
 # function9()
-'''
-****
-*  *
-*  *
-*  * 
-****
 
-'''
 
 # def function10():
 #     user = int(input("Enter the number : "))
