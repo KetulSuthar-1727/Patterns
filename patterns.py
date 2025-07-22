@@ -152,42 +152,17 @@
 # def function10():
 #     user = int(input("Enter the number : "))
     
-    # for i in range(0,user):
-    #     print("*",end="")
-    # print("")
+#     for i in range(0,user):
+#         print("*",end="")
+#     print("")
         
-    # for j in range(0,user-2):
-    #         print("*",end="")
-    #         print(" " * (user-2),end="")
-    #         print("*")
+#     for j in range(0,user-2):
+#             print("*",end="")
+#             print(" " * (user-2),end="")
+#             print("*")
 
-    # for k in range(0,user):
-    #     print("*",end="")
+#     for k in range(0,user):
+#         print("*",end="")
 
 
 # function10()
-
-def function11():
-    user = int(input("Enter the number : "))
-    count = user
-    
-    
-
-
-    for i in range (0,(2*user-1)):
-      top = i
-      left = (2*user-2) - i
-      print(user - min(min(top,left)))
-        
-      print("")
-        
-    for j in range(0,(2*user-1)):
-            
-            
-      bottom = j
-      right = (2*user-2) - j
-      print(user - min(min(bottom,right)))
-    print("")
-
-    
-function11()
